@@ -37,20 +37,10 @@
 
 ---
 
-## 💡 Đề xuất mở rộng
+## Tác giả
 
-- Thử thêm các đặc trưng khác: MACD, Bollinger Bands, Volume,...
-- Sử dụng mô hình học máy nâng cao: RandomForest, XGBoost, SVM
-- Áp dụng chiến lược đầu tư backtest theo tín hiệu mô hình
-- Triển khai giao diện web đơn giản (Flask/Streamlit) để dự báo
-
----
-
-## 📬 Liên hệ
-
-> Thực hiện bởi: [Tên bạn ở đây]  
-> Dự án học phần: Nhập môn Lập trình và Xử lý Dữ liệu Tài chính  
-> Trường Đại học [Tên trường nếu cần]
+> Thực hiện bởi: **Lê Nho Minh Hiếu**    
+> Trường Đại học Công Nghê - VNU
 
 ---
 
